@@ -1,0 +1,1 @@
+Task_1: Bấm upload file và chọn file excel để upload lên, upload thành công sẽ có thông báo upload thành công 1452 giao dịch, sau khi upload thành công thì chọn thời gian start và thời gian end và bấm nút tính tổng để xem kết quả
